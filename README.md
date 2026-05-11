@@ -160,6 +160,3 @@ If you liked this project or have suggestions, feel free to connect and collabor
 
 ---
 
-⭐ If you found this project helpful, consider giving it a star!
-
-Based on your project notebook/code: 
